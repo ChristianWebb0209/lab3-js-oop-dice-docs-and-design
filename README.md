@@ -1,3 +1,6 @@
+# this is a test change for jsdocs!
+
+
 # Lab 3: Dice Simulation
 ## Overview
 This project will implement a simple simulation of dice rolling to demonstrate
